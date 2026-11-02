@@ -1,4 +1,5 @@
 # MotorVoxel
+<img width="2400" height="274" alt="motor-voxel-logo" src="https://github.com/user-attachments/assets/1fde0eb6-9bef-499f-883b-8477674316cf" />
 
 Motor voxel estilo Minecraft hecho en **Godot 4 (.NET)** con **C#** y **GDScript**.
 Proyecto independiente, hecho como devlog en video.
