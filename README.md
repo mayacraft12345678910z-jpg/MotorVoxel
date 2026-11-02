@@ -37,8 +37,7 @@ Los archivos del proyecto no están en esta página: cada versión se publica en
 
 ## Texturas
 
-Este proyecto **no incluye texturas, fuentes ni sonidos de Minecraft**, porque son propiedad de Mojang/Microsoft.
-Para instalarlas usa **MotorVoxelTextureLoader**.
+Este proyecto **no incluye texturas, fuentes ni sonidos de Minecraft**, porque son propiedad de Mojang/Microsoft. Puedes crear las tuyas propias o usar los mio  Para instalarlas usa **MotorVoxelTextureLoader**.
 
 ## Documentación
 
