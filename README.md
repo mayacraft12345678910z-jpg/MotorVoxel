@@ -3,8 +3,15 @@
 Motor voxel estilo Minecraft hecho en **Godot 4 (.NET)** con **C#** y **GDScript**.
 Proyecto independiente, hecho como devlog en video.
 
-> Este proyecto no está afiliado ni relacionado con Mojang ni Microsoft.
-> Minecraft es una marca de sus respectivos dueños.
+> ## ⚠️ Términos de Uso y Licencia / Terms & Conditions
+
+Este proyecto es de código abierto / libre acceso, pero está sujeto a las siguientes condiciones de redistribución y venta:
+
+* **Sin Afiliación:** Este proyecto es totalmente independiente y no está afiliado, respaldado ni relacionado con ningún otro producto, marca o desarrollador externo.
+* **Prohibición de reventa directa:** Está estrictamente prohibido vender, comercializar o cobrar por los archivos originales de este repositorio tal y como se descargan aquí. 
+* **Condición para la venta de derivados:** Puedes modificar, adaptar o utilizar este proyecto para crear nuevos productos comerciales **únicamente si** aportas valor real, cambios significativos, código propio o recursos (`assets`) nuevos creados por ti que modifiquen sustancialmente la obra original.
+* **Responsabilidad sobre los cambios:** Solo tienes derecho a comercializar aquello que tú hayas desarrollado o cambiado de forma legítima y que no formara parte del repositorio original.
+
 
 ## Descargar
 
