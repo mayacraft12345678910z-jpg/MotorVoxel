@@ -1,0 +1,3 @@
+*.gd linguist-language=GDScript
+*.cs linguist-language=C#
+*.py linguist-language=Python
